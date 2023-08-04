@@ -1,0 +1,56 @@
+*{margin: 0%;
+padding: 0%;}
+.header img {
+    width: 9%;
+  
+  }
+  .header {
+    max-width: 1085px;
+    margin: auto;
+    color: white;
+    display: flex;
+    padding-top: 30px;
+  }
+  .parent {
+    background: black;
+    height: 301px;
+    font-family: 'Roboto', sans-serif;
+    max-width: 1100px;
+    margin: auto;
+      margin-top: auto;
+    border-radius: 21px;
+    margin-top: 40px;
+  }
+  .rightheader {
+    margin-top: 25px;
+    font-size: 14px;
+    margin-left: 15px;
+    width: 82%;
+  }
+  .fa-solid.fa-ellipsis {
+    font-size: 38px;
+    padding-top: 33px;
+  } 
+  .pre {
+    max-width: 871px;
+    margin: auto;
+    color: white;
+    font-size: 21px;
+    line-height: 33px;
+    padding-top: 10px;
+  }
+  span {
+    color: gainsboro;
+  }
+  .inc {
+    color: aqua;
+    text-align: right;
+    max-width: 1000px;
+    margin: auto;
+     
+    margin-top: -17px;
+    font-size: 30px;
+  }
+  .fa-regular.fa-comment-dots {
+    padding: 0px 15px 0px 15px;
+  }
